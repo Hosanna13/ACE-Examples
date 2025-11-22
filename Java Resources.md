@@ -1,2 +1,2 @@
 ## Resources for Intro to Java 
-[`Learn Java for Everyone`]('https://archive.org/details/javaforeveryonec0001hors') - Great for Beginners!
+[`Learn Java for Everyone`](https://archive.org/details/javaforeveryonec0001hors) - Great for Beginners!
