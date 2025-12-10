@@ -11,11 +11,12 @@ def rows(n):
     
     # set top and bottom row = number sequrence 
     for  j in range(n):
-        # top row 
-        result[0][j] = j + 1
+        if ( j % 2 == 0 and j > 0): # even addition
+            # top row 
+            result[0][j] = j + 1
 
-        # bottom 
-        result[n - 1][j] = j + 1
+            # bottom 
+            result[n - 1][j] = j + 1
 
 
 
@@ -25,5 +26,5 @@ def rows(n):
 
 
 if __name__ == "__main__":
-    n =4
+    n = 4
     print(rows(n))
