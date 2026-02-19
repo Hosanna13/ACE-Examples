@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "12.1 Subsitution Cyper",
         "11.3 Scoreboard Example - Intro to Java",
         "11.17 Guess Example - Intro to Java",
-        "12.1 Subsitution Cyper"
+        "RSS REader"
     ]
 }

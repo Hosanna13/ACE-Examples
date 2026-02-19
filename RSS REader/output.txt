@@ -1,0 +1,2 @@
+<html> <head> <title>the channel tag title as the page title</title><p>  * the channel description ** </p> <table border="1">  <tr><th>Date</th><th>Source</th><th>News</th></tr></table>
+</body> </html>
